@@ -35,6 +35,7 @@ function Banner() {
 
 
             </div>
+            <div className="ban_fade"></div>
 
         </header>
     )

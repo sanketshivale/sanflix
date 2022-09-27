@@ -1,9 +1,9 @@
 
 .row{
     margin-left: 20px;
+    color: aliceblue;
 }
 .row_title{
-    color: aliceblue;
     font-weight: 800;
     padding-top: 1rem;
     
