@@ -1,4 +1,4 @@
-# Sanflix - Netflix clone with React and TMDB API
+# Netflix clone with React and TMDB API
 
 ## Available Scripts
 
