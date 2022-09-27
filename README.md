@@ -19,12 +19,11 @@ npm i
 
 ### Configuration
 Add your TMDB api key in req.js
-```
+
 const API_KEY = "<< YOUR TMDB API KEY >>";
 
-```
 ### Starting the application
-```
+
 npm start
 
 ```
