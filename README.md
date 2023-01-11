@@ -3,7 +3,7 @@
 ## Getting started
 ### Requirements
  - Node 16 or later
- - Tmdb API KEY
+ - Tmdb API KEY, You can create your own or contact me for one. Site For Tmdb movie database https://www.themoviedb.org/
  - npm
 
 ### Installation
@@ -18,11 +18,11 @@ cd sanflix/
 npm i 
 
 ### Configuration
-Add your TMDB api key in req.js
+Add your TMDB api key in req.js present in /src folder
 
 const API_KEY = "<< YOUR TMDB API KEY >>";
 
-### Starting the application
+### Start the application using following command
 
 npm start
 
