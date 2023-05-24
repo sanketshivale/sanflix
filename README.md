@@ -1,6 +1,6 @@
 # Netflix clone with React and TMDB API
 
-Visit these to get a Demo sanflix.vercel.app
+Visit these to get a Demo https://sanflix.vercel.app
 
 ## Getting started
 ### Requirements
